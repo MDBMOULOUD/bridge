@@ -94,7 +94,7 @@ icon.adaptive_foreground.filename = %(source.dir)s/data/icon_fg.png
 icon.adaptive_background.filename = %(source.dir)s/data/icon_bg.png
 
 # (list) Permissions
-android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
+
 
 
 
